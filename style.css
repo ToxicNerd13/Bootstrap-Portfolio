@@ -1,0 +1,21 @@
+body {
+    background-image: url('img/concrete_seamless.png');
+}
+.navbar {
+    margin: 1%;
+    height: 100px !important;
+}
+.navbar-brand {
+  background: #4e3432;
+  color: white !important;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  padding: 18px;
+  margin-left: 35px;
+  }
+.nav-item {
+  border-left: 1px solid #efefef;
+}
+.nav-item:first-child {
+  border-left: 0 none;
+}

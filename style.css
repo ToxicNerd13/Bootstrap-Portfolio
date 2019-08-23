@@ -8,7 +8,7 @@ body {
   background: #bd1104;
   color: white;
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1.9em;
+  font-size: 5vw;
   font-weight: bold;
   }
 .nav-item {
@@ -30,4 +30,7 @@ h1 {
 .main .container {
   margin-top: 40px;
   background: white;
+}
+.article {
+  margin: 10px 25px;
 }
